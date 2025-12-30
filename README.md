@@ -1,5 +1,4 @@
-# Alerts_in_bootstrap
-make alerts in bootstrap
-It's a just course for alerts in bootstrap
+# Alerts in bootstrap
+Bootstrap Notification Center A clean implementation of alert components using Bootstrap, featuring different status messages and interactive notification bars with a minimalist design.
 
-### Ehsan Amirahmadi
+<img src='screenshot.jpg'>
